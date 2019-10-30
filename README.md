@@ -80,7 +80,7 @@ CMS.registerPreviewTemplate('products', ProductPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)
 ```
 
-## Getting Started (Without Netlify)
+## Getting Started (Without Netlify)...
 
 ```
 $ gatsby new [SITE_DIRECTORY_NAME] https://github.com/netlify-templates/gatsby-starter-netlify-cms/
