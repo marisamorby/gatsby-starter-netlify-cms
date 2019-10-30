@@ -24,7 +24,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 - Perfect score on Lighthouse for SEO, Accessibility and Performance (wip:PWA)
 - ..and more
 
-## Prerequisites
+## Prerequisites...
 
 - Node (I recommend using v8.2.0 or higher)
 - [Gatsby CLI](https://www.gatsbyjs.org/docs/)
